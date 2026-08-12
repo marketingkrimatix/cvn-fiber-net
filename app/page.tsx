@@ -12,7 +12,7 @@ const plans = [
 ];
 
 const serviceAreas = [
-  "Ali Bagh", "Kalapathar", "New Road Jahanuma", "Modern Town Colony",
+  "Ali Bagh", "Kalapathar", "New Road", "Jahanuma", "Modern Town Colony",
   "Sattar Bagh", "Phool Bagh", "Chune Ki Bhatti", "Misri Gunj",
   "Chandulal Baradari", "Tadbun", "Zoo Park", "Mochi Colony",
   "Khaja Pahadi", "Eidgah Tadbun", "B.N.K. Colony", "Nizam Colony",
