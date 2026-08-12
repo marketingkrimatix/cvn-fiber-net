@@ -3,7 +3,7 @@ import Image from "next/image";
 import { FormEvent, useState } from "react";
 
 const number = "918886448989";
-const wa = (plan = "the available internet plans") => `https://wa.me/${number}?text=${encodeURIComponent(`Hello CVN Fiber Net, I would like to check internet availability in my area. My location is ______ and I am interested in ${plan}.`)}`;
+const wa = (plan = "the available internet plans") => `https://wa.me/${number}?text=${encodeURIComponent(`Hello CVN Fiber Net, I would like to check internet availability in my area. I am interested in ${plan}.`)}`;
 
 const plans = [
   { no:"01", hint:"Plans start here", name:"Starter Fiber", price:"399", list:["Unlimited data","High-speed fiber connection","HD streaming","Work-from-home ready"] },
